@@ -1,11 +1,22 @@
 # EN.650.658 Introduction to Cryptography Fall 2018
 
-## Meeting Time: 12:00-1:15 pm, Tuesday/Thursday 
-## Meeting Place: Croft Hall G02
-## Instructor: Xiangyang Li (xyli@jhu.edu)
-## Office: Malone Hall 311
-## Class Office Hours: By appointment TBD
-## Course Assistant: Yu-Tsern Jou
+## Meeting Time:
+12:00-1:15 pm, Tuesday/Thursday 
+
+## Meeting Place:
+Croft Hall G02
+
+## Instructor:
+Xiangyang Li (xyli@jhu.edu)
+
+## Office:
+Malone Hall 311
+
+## Class Office Hours:
+By appointment TBD
+
+## Course Assistant:
+Yu-Tsern Jou
 
 ## Course Information:
 Cryptography has a rich history as one of the foundations of information security. This course serves as the introduction to the working primitives, development and various techniques in this field. It emphasizes reasoning about the constraint and construction of cryptographic protocols that use shared secret key or public key. Students will also be exposed to some current open problems.
@@ -26,38 +37,38 @@ University Press, 9780521516440 (freely available online at http://shoup.net/ntb
 
 ## Use of Computer:
 An open-source mathematics software called SAGE can be used for programming exercises. This free software is based on python and similar to Matlab and Mathematica.
-§ You can access http://www.sagemath.org/ for installation of this software.
-§ You need a virtual machine environment to run SAGE on Windows OS. Please use the free VirtualBox player. (Last time I tried: It will be much easier to set up an account and upload/download files through a NoteBook interface at “localhost:8000” on a browser outside the virtual machine.)
+- You can access http://www.sagemath.org/ for installation of this software.
+- You need a virtual machine environment to run SAGE on Windows OS. Please use the free VirtualBox player. (Last time I tried: It will be much easier to set up an account and upload/download files through a NoteBook interface at “localhost:8000” on a browser outside the virtual machine.)
 
 ## Use of Course Website:
-§ You should have been enrolled in the BlackBoard course website for this course.
-§ Class notes, assignments, and announcements will be posted on the course website.
+- You should have been enrolled in the BlackBoard course website for this course.
+- Class notes, assignments, and announcements will be posted on the course website.
 
 ## Tentative Topics and Schedule:
-§ Introduction to cryptography
-§ Classical encryption techniques
-§ Basic principles of modern cryptography
-§ Perfectly secret encryption
-§ Computationally-secure encryption and pseudorandomness
-§ CPA and CCA
-§ Private-key encryption
-§ Block ciphers and operation modes - DES, AES
-§ Stream ciphers
-§ Public-key encryption – RSA, Diffie-Hellman
-§ Data integrity - message authentication codes and hash functions § Authentication - digital signatures
+- Introduction to cryptography
+- Classical encryption techniques
+- Basic principles of modern cryptography
+- Perfectly secret encryption
+- Computationally-secure encryption and pseudorandomness
+- CPA and CCA
+- Private-key encryption
+- Block ciphers and operation modes - DES, AES
+- Stream ciphers
+- Public-key encryption – RSA, Diffie-Hellman
+- Data integrity - message authentication codes and hash functions § Authentication - digital signatures
 
 ## Evaluation:
 Students are evaluated for understanding of fundamental concept, proof, and implementation of cryptographic systems.
-§ Homework (60%) – Several assignments are a combination of question/answer, proof, and programming. The homework should be submitted by its deadline.
-§ Exams (40%) – Three open-book/notes exams. First Exam is 10% and the last two are 15% each. No computational aids and Internet access are allowed. No collaboration is allowed for exams.
+- Homework (60%) – Several assignments are a combination of question/answer, proof, and programming. The homework should be submitted by its deadline.
+- Exams (40%) – Three open-book/notes exams. First Exam is 10% and the last two are 15% each. No computational aids and Internet access are allowed. No collaboration is allowed for exams.
 
 ## Grading:
 A letter grade will be assigned according to this formula: A - 90% and above; B - 75% to 89%; C - 60% to 74%; D - 50% to 59%; F - less than 50%. Appropriate upward curving will be made as necessary.
 
 ## General Requirements:
-§ Be regular; do not fall behind on class materials. No make-up exam will be offered. If you should be missing from one class, please make arrangement with the instructor in advance.
-§ Discussion is encouraged for homework assignment. But you have to form your own solutions. Only typed or electronic reports (hand drawing okay for figures if necessary and legible) are allowed for homework.
-§ Each student has a responsibility to understand, accept, and comply with the university’s standards of academic conduct, as well as policies established by the school. For example, getting help from fellow students or helping others in examination will be a violation. Copying other students’ work or online materials, or quoting others’ work in report without contribution declarations, will be plagiarism activity.
+- Be regular; do not fall behind on class materials. No make-up exam will be offered. If you should be missing from one class, please make arrangement with the instructor in advance.
+- Discussion is encouraged for homework assignment. But you have to form your own solutions. Only typed or electronic reports (hand drawing okay for figures if necessary and legible) are allowed for homework.
+- Each student has a responsibility to understand, accept, and comply with the university’s standards of academic conduct, as well as policies established by the school. For example, getting help from fellow students or helping others in examination will be a violation. Copying other students’ work or online materials, or quoting others’ work in report without contribution declarations, will be plagiarism activity.
 
 ## Ethics
 The strength of the university depends on academic and personal integrity. In this course, you must be honest and truthful, abiding by the Computer Science Academic Integrity Policy:
