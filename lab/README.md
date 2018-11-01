@@ -1,5 +1,6 @@
-# EN650.601 Lab Assignment 2 - Secret-Key Encryption (40 pts)
+## EN650.601 Lab Assignment 2
 
+### Secret-Key Encryption (40 pts)
 In this [lab](http://www.cis.syr.edu/~wedu/seed/Labs_12.04/Crypto/Crypto_Encryption/Crypto_Encryption.pdf), you will apply knowledge of block cipher modes of operation to find out some interesting facts and do experiments on crypto programming such as random number generation. You have to complete six tasks in this lab and submit a report describing your work and observation. The lab is one of the exercises in [SEED Project](http://www.cis.syr.edu/~wedu/seed/index.html). It provides [Virtual Machine (VM) image](http://www.cis.syr.edu/~wedu/SEEDUbuntu12.04.zip) to simplify the setup of experimental environment. Please load this VM image with Virtualbox or VMware on your computer, and read the [User Manual](http://www.cis.syr.edu/~wedu/seed/Documentation/Ubuntu12_04_VM/Ubuntu12_04_VM_Manual.pdf) carefully before you start. 
 
 ### Lab Notices:
