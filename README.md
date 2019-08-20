@@ -55,7 +55,8 @@ An open-source mathematics software called SAGE can be used for programming exer
 - Block ciphers and operation modes - DES, AES
 - Stream ciphers
 - Public-key encryption – RSA, Diffie-Hellman
-- Data integrity - message authentication codes and hash functions § Authentication - digital signatures
+- Data integrity - MAC, hash functions
+- Authentication - digital signatures
 
 ## Evaluation:
 Students are evaluated for understanding of fundamental concept, proof, and implementation of cryptographic systems.
@@ -85,5 +86,6 @@ Report any violations you witness to the instructor.
 You can find more information about university misconduct policies on the web at these sites:
 • For undergraduates: http://e-catalog.jhu.edu/undergrad-students/student-life-policies/
 • For graduate students: http://e-catalog.jhu.edu/grad-students/graduate-specific-policies/
-Students with Disabilities
+
+## Students with Disabilities
 Any student with a disability who may need accommodations in this class must obtain an accommodation letter from Student Disability Services, 385 Garland, (410) 516-4720, studentdisabilityservices@jhu.edu .
